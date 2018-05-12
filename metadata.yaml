@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32317#The-World-with-a-Thousand-Moons
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-10'
 gutenberg_type: Text
