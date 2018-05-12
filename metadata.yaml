@@ -1,0 +1,28 @@
+_repo: The-World-with-a-Thousand-Moons_32317
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32317-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The World with a Thousand Moons
+url: http://www.gutenberg.org/ebooks/32317
